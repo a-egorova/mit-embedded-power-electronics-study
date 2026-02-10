@@ -14,10 +14,10 @@ This repository documents my self-study of advanced power electronics concepts f
 
 ```
 .
-├── weekXX/
-│   ├── problems.md            # Problem summaries rewritten in my own words
-│   ├── solutions.pdf          # Handwritten or typed solutions
-│   └── reflections.md         # Challenges and lessons learned
+├── weeks/
+│   ├── problemsXX.pdf           # A copy of the original MIT problem set         
+│   ├── solutionsXX.pdf          # Handwritten or typed solutions
+│   └── reflections.md           # Challenges and lessons learned
 │
 ├── assessments/
 │   └── assessmentXX_solution.pdf
